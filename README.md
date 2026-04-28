@@ -61,4 +61,4 @@ In questa repository sono disponibili i file sorgenti e la documentazione comple
 
 *(Nota: Per visualizzare correttamente il file .pkt è necessario Cisco Packet Tracer v8.2 o superiore)*
 
-> 📥 **Scarica e consulta la documentazione ufficiale:** [Report Tecnico Theta - Architettura e Sicurezza (PDF)](INSERIRE_QUI_IL_LINK_AL_PDF_DOPO_AVERLO_CARICATO)
+> 📥 **Scarica e consulta la documentazione ufficiale:** [Report Tecnico Theta - Architettura e Sicurezza (PDF)](https://github.com/fabio22-git/progetto-theta/blob/main/Report%20Tecnico%20Theta.%20Architettura%2C%20Sicurezza%20e%20Investimenti.pdf)
